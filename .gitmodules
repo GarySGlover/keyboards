@@ -1,0 +1,3 @@
+[submodule "alps-rkjxm1015004"]
+	path = kicad/libs/alps/rkjxm1015004
+	url = https://github.com/NoPlanNomad/Alps_kicadlib.git
